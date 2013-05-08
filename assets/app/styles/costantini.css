@@ -11,8 +11,14 @@
 
 .cosMainBodyMain {
     background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .cosMainBody {
     background-color: #ffffff;
+}
+
+.cosCenter {
+    text-align: center;
 }

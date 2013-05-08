@@ -1,1 +1,154 @@
-<p>This is the audit view {{auditType}} , {{accessMode}}.</p>
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#/">Home</a></li>
+            <li class="active"><a href="#">Audit</a></li>
+            <li><a href="#">Volet</a></li>
+            <li><a href="#">Position</a></li>
+        </ul>
+    </div>
+</div>
+
+<h3 class="cosCenter">Audit</h3>
+<!--<p>This is the audit view accessMode : {{accessMode}} auditName : {{auditName}}.</p>-->
+
+<form class="form-horizontal">
+
+    <div ng-hide="isItem">
+
+        <div class="control-group">
+            <label class="control-label" for="owner">Owner</label>
+            <div class="controls">
+                <input type="text" id="owner" ng-model="audit.owner">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="name">Name</label>
+            <div class="controls">
+                <input type="text" id="name" ng-model="audit.name">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="date">Creation date</label>
+            <div class="controls">
+                <div id="date">{{audit.date | date:dateTimeFormat}}</div>
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="lastModif">Last Modification</label>
+            <div class="controls">
+                <div id="lastModif">{{audit.lastModif | date:dateTimeFormat}}</div>
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="description">Description</label>
+            <div class="controls">
+                <input type="text" id="description" ng-model="audit.description">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="peoples">Peoples</label>
+            <div class="controls">
+                <input type="text" id="peoples" ng-model="audit.peoples">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="location">Location</label>
+            <div class="controls">
+                <input type="text" id="location" ng-model="audit.location">
+            </div>
+        </div>
+
+        <!--<div ng-bind="audit.dirty"></div>-->
+        <!--<div ng-bind="audit.categories.length"></div>-->
+        <!--<div ng-bind="debugData"></div>-->
+        <hr/>
+        <h4 class="cosCenter">Catégories/Items</h4>
+        <div ng-repeat="categ in audit.categories" class="cosCenter">
+            <div ng-bind="categ.name" style="border-bottom: 1px solid blueviolet;"></div>
+            <div ng-repeat="item in categ.items">
+                <a class="btn" ng-click="showItem($parent.$index, $index)" style="margin: 3px; width: 80%">
+                    <img ng-src="{{prefixHttp}}/img/{{item.status}}.png" width="24px">
+                    <span ng-bind="item.name"></span>
+                </a>
+            </div>
+            <br/>
+        </div>
+
+        <hr/>
+        <div class="cosCenter">
+            <h4 ng-show="msg!=null">{{msg}}</h4>
+            <button ng-click="saveAudit()" style="width: 80%;">Sauvegarder cet audit.</button>
+        </div>
+
+    </div>
+
+    <div ng-show="isItem">
+        <div class="control-group">
+            <label class="control-label" for="name">Name</label>
+            <div class="controls">
+                <span ng-bind="item.name"></span>
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="status">status</label>
+            <div class="controls">
+                <select ng-model="item.status">
+                    <option value="OK">OK</option>
+                    <option value="KO">KO</option>
+                    <option value="NA">NA</option>
+                    <option value="NE">NE</option>
+                    <option value="RE">RE</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label" for="location">Comment</label>
+            <div class="controls">
+                <textarea rows="5" id="comment" ng-model="item.comment"></textarea>
+            </div>
+        </div>
+        <div class="cosCenter">
+            <button ng-click="addPhoto()" style="width: 80%;">Ajouter une rubrique Photo</button>
+        </div>
+
+        <div ng-repeat="photo in item.photos">
+            <div class="control-group" style="margin-top: 10px; ">
+                <label class="control-label" for="pname">Name</label>
+                <div class="controls">
+                    <input type="text" id="pname" ng-model="photo.name">
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="pname">&nbsp;</label>
+                <div class="controls">
+                    <label class="checkbox">
+                        <input type="checkbox" ng-model="photo.positive"> Audit Positif
+                    </label>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="pcomment">Comment</label>
+                <div class="controls">
+                    <textarea rows="5" id="pcomment" ng-model="photo.comment"></textarea>
+                </div>
+            </div>
+            <div class="cosCenter">
+                <img ng-src="data:image/jpeg;base64,{{photo.contentBase64}}"/>
+                <img ng-src="{{prefixHttp}}/rest/audit/{{audit.name}}/photo/{{photo.name}}"/>
+                {{$scope.msg}}
+            </div>
+            <div class="cosCenter">
+                <button ng-click="takePhoto($index)">Prendre la photo avec l'appareil.</button>
+            </div>
+            <hr/>
+        </div>
+
+
+        <div class="cosCenter">
+            <button ng-click="okItem()">Retour</button>
+        </div>
+    </div>
+
+</form>

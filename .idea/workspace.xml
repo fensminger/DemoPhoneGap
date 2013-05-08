@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3eb9c29-f806-4df2-9452-b672ab66c9fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/app/styles/costantini.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/QUAD.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/app/indexPhoto.html" />
       <change type="DELETED" beforePath="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www\cordova-2.6.0.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www\css\index.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www\img\cordova.png" afterPath="" />
@@ -33,35 +34,40 @@
       <change type="DELETED" beforePath="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www\spec\lib\jasmine-1.2.0\jasmine.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www\spec\lib\jasmine-1.2.0\jasmine.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DemoPhoneGap.iml" afterPath="$PROJECT_DIR$/DemoPhoneGap.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/fer/demo/phonegap/DemoPhoneGap.java" afterPath="$PROJECT_DIR$/src/org/fer/demo/phonegap/DemoPhoneGap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/scripts/app.js" afterPath="$PROJECT_DIR$/assets/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/views/audit.html" afterPath="$PROJECT_DIR$/assets/app/views/audit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/scripts/controllers/audit.js" afterPath="$PROJECT_DIR$/assets/app/scripts/controllers/audit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/config.xml" afterPath="$PROJECT_DIR$/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/styles/costantini.css" afterPath="$PROJECT_DIR$/assets/app/styles/costantini.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/index.html" afterPath="$PROJECT_DIR$/assets/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/views/main.html" afterPath="$PROJECT_DIR$/assets/app/views/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/assets/app/scripts/controllers/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DemoPhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367998712127" ignored="false" />
+    <file path="/Dummy.txt" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368023687913" ignored="false" />
     <file path="$PROJECT_DIR$/res/layout/main.xml" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1366966631525" ignored="false" />
     <file path="/fragment.java" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367335238516" ignored="false" />
     <file path="/a.xml" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1366967807747" ignored="false" />
     <file path="/DemoPhoneGap.java" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1366968767149" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1366969297724" ignored="false" />
-    <file path="/main.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368003858842" ignored="false" />
-    <file path="/a.dummy" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368004627451" ignored="false" />
+    <file path="/main.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368006753890" ignored="false" />
+    <file path="/a.dummy" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368013471174" ignored="false" />
     <file path="/main.scss" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368002027980" ignored="false" />
-    <file path="/main.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368006066808" ignored="false" />
+    <file path="/main.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368031360667" ignored="false" />
     <file path="db-console:/85627143/93b7ce02-a4cb-4a0b-9880-246f3ee28c47/" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367871316727" ignored="false" />
     <file path="/route.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367872215623" ignored="false" />
     <file path="/route.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367994652790" ignored="false" />
-    <file path="/index.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368004612586" ignored="false" />
+    <file path="/index.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368029690796" ignored="false" />
     <file path="$PROJECT_DIR$/../../veto/wizzvet-backend/wizzvet-serv2/src/main/java/com/wizzvet/service/ManagerRest.java" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367956208045" ignored="false" />
     <file path="/ManagerRest.java" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1367956110044" ignored="false" />
     <file path="/app.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368000179497" ignored="false" />
-    <file path="/costantini.css" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368003560848" ignored="false" />
-    <file path="/audit.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368006100830" ignored="false" />
+    <file path="/costantini.css" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368012866868" ignored="false" />
+    <file path="/audit.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368028479854" ignored="false" />
+    <file path="/audit.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368030313160" ignored="false" />
+    <file path="$PROJECT_DIR$/../../veto/wizzvet-backend/wizzvet-serv2/src/main/webapp/js/app.js" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368025134233" ignored="false" />
+    <file path="/indexCode.html" changelist="d3eb9c29-f806-4df2-9452-b672ab66c9fe" time="1368027786227" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,28 +128,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Manager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../costantini-backend/src/main/java/lu/sfeir/sid/costantini/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="16" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="route.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/route.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="103" selection-end="136" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="audit.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/audit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="25" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+            <state line="97" column="21" selection-start="6964" selection-end="6964" vertical-scroll-proportion="-38.8">
               <folding />
             </state>
           </provider>
@@ -152,45 +140,22 @@
       <file leaf-file-name="audit.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/app/views/audit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="59" selection-start="62" selection-end="62" vertical-scroll-proportion="0.038022812">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="101" selection-end="138" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/views/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="65" selection-start="462" selection-end="462" vertical-scroll-proportion="-7.586207">
+            <state line="100" column="41" selection-start="3916" selection-end="3916" vertical-scroll-proportion="0.12608695">
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#8;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#3;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#form#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="costantini.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/styles/costantini.css">
+      <file leaf-file-name="indexCordova.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www.aSuppr/indexCordova.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="183" selection-end="194" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/scripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="31" selection-start="338" selection-end="348" vertical-scroll-proportion="0.0">
+            <state line="37" column="46" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-2.5316455">
               <folding />
             </state>
           </provider>
@@ -199,16 +164,47 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="62" selection-start="1286" selection-end="1286" vertical-scroll-proportion="-14.931034">
+            <state line="40" column="40" selection-start="2220" selection-end="2220" vertical-scroll-proportion="-2.9620254">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/app/views/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="100" selection-start="722" selection-end="722" vertical-scroll-proportion="-11.034483">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/app/styles/main.scss">
+      <file leaf-file-name="indexPhoto.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/app/indexPhoto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="106" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="42" column="0" selection-start="1262" selection-end="2053" vertical-scroll-proportion="-10.344828">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="7" selection-start="1310" selection-end="1310" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/app/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="6" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -232,30 +228,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/testyeoman/test/spec/controllers/main.js" />
-        <option value="$PROJECT_DIR$/src/org/fer/demo/phonegap/DemoPhoneGap.java" />
-        <option value="$PROJECT_DIR$/assets/app/styles/compass_twitter_bootstrap.scss" />
         <option value="$PROJECT_DIR$/assets/app/styles/main.css" />
         <option value="$PROJECT_DIR$/assets/test/spec/controllers/main.js" />
         <option value="$PROJECT_DIR$/assets/www.aSuppr/index.html" />
         <option value="$PROJECT_DIR$/assets/app/views/route.html" />
-        <option value="$PROJECT_DIR$/assets/app/styles/costantini.css" />
-        <option value="$PROJECT_DIR$/assets/app/scripts/controllers/main.js" />
         <option value="$PROJECT_DIR$/assets/app/scripts/controllers/route.js" />
         <option value="$PROJECT_DIR$/assets/app/styles/main.scss" />
-        <option value="$PROJECT_DIR$/assets/app/index.html" />
-        <option value="$PROJECT_DIR$/assets/app/views/main.html" />
+        <option value="$PROJECT_DIR$/assets/app/styles/costantini.css" />
         <option value="$PROJECT_DIR$/assets/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/../costantini-backend/src/main/java/lu/sfeir/sid/costantini/Photo.java" />
+        <option value="$PROJECT_DIR$/assets/app/indexCode.html" />
         <option value="$PROJECT_DIR$/assets/app/scripts/controllers/audit.js" />
+        <option value="$PROJECT_DIR$/assets/app/index.html" />
+        <option value="$PROJECT_DIR$/assets/app/scripts/controllers/main.js" />
         <option value="$PROJECT_DIR$/assets/app/views/audit.html" />
+        <option value="$PROJECT_DIR$/assets/app/views/main.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="336" />
-    <option name="y" value="131" />
-    <option name="width" value="1583" />
-    <option name="height" value="1026" />
+    <option name="x" value="300" />
+    <option name="width" value="1380" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -268,7 +263,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -283,6 +278,35 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoPhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoPhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoPhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoPhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.fer.demo.phonegap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -393,7 +417,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="www.aSuppr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -411,15 +435,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="www.aSuppr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -481,28 +501,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoPhoneGap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoPhoneGap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -551,41 +549,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoPhoneGap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoPhoneGap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoPhoneGap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DemoPhoneGap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org.fer.demo.phonegap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -602,13 +571,13 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="AndroidTargetDevices" value="0019419546d13f 015d2ea4d0302209" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="AndroidTargetDevices" value="0019419546d13f 015d2ea4d0302209" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -623,6 +592,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Appli\gitrepo\github\DemoPhoneGap\assets\app" />
       <recent name="C:\Appli\gitrepo\github\DemoPhoneGap\res" />
       <recent name="C:\Appli\gitrepo\github\DemoPhoneGap\libs" />
       <recent name="C:\Appli\gitrepo\github\DemoPhoneGap\assets\www" />
@@ -641,6 +611,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -671,19 +654,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -697,6 +667,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -718,13 +695,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -796,13 +766,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="336" y="131" width="1583" height="1026" extended-state="0" />
+    <frame x="300" y="0" width="1380" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -811,7 +780,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32794458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32678983" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -820,11 +789,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26758713" sideWeight="0.6709007" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2663126" sideWeight="0.6647059" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -893,60 +863,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/www.aSuppr/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.52380955">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/components/AngularJS/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8492" column="9" selection-start="269422" selection-end="269422" vertical-scroll-proportion="0.024183797">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/components/angular-scenario/angular-scenario.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8260" column="54" selection-start="221293" selection-end="221293" vertical-scroll-proportion="0.36275697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/test/spec/controllers/route.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/views/route.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="33" selection-end="56" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/views/root.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../costantini-backend/src/main/java/lu/sfeir/sid/costantini/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="16" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/styles/costantini.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="183" selection-end="194" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="106" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
@@ -954,54 +870,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="62" selection-start="1286" selection-end="1286" vertical-scroll-proportion="-14.931034">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/route.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="103" selection-end="136" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="103" selection-end="136" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/styles/costantini.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="10" selection-start="279" selection-end="288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/main.js">
+    <entry file="file://$PROJECT_DIR$/../costantini-backend/src/main/java/lu/sfeir/sid/costantini/Photo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="101" selection-end="138" vertical-scroll-proportion="0.0">
+        <state line="8" column="18" selection-start="131" selection-end="131" vertical-scroll-proportion="0.29962546">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/index.html.orig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.17631918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www.aSuppr/indexCordova.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="46" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-2.5316455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www.aSuppr/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="24" selection-start="873" selection-end="873" vertical-scroll-proportion="-0.03731343">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="39" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.69632494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.972973">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/indexPhoto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1262" selection-end="2053" vertical-scroll-proportion="-10.344828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="40" selection-start="2220" selection-end="2220" vertical-scroll-proportion="-2.9620254">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="65" selection-start="462" selection-end="462" vertical-scroll-proportion="-7.586207">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="338" selection-end="348" vertical-scroll-proportion="0.0">
+        <state line="16" column="100" selection-start="722" selection-end="722" vertical-scroll-proportion="-11.034483">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/audit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+        <state line="97" column="21" selection-start="6964" selection-end="6964" vertical-scroll-proportion="-38.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="6" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="7" selection-start="1310" selection-end="1310" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/app/views/audit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="59" selection-start="62" selection-end="62" vertical-scroll-proportion="0.038022812">
-          <folding />
+        <state line="100" column="41" selection-start="3916" selection-end="3916" vertical-scroll-proportion="0.12608695">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#7;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#8;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#3;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#form#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
