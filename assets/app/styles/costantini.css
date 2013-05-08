@@ -1,0 +1,18 @@
+.cosSelMenu {
+    display: block;
+    position: relative;
+    float: center;
+    padding: 3px;
+}
+
+.cosWhite {
+    color: #ffffff;
+}
+
+.cosMainBodyMain {
+    background-color: red;
+}
+
+.cosMainBody {
+    background-color: #ffffff;
+}

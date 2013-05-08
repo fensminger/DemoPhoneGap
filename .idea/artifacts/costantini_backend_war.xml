@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="costantini-backend:war">
+    <output-path>$PROJECT_DIR$/../costantini-backend/target</output-path>
+    <root id="archive" name="costantini.war">
+      <element id="artifact" artifact-name="costantini-backend:war exploded" />
+    </root>
+  </artifact>
+</component>

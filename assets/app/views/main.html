@@ -1,0 +1,25 @@
+<div>
+    <div style="text-align: center">
+        <img src="img/costantini.gif"/>
+        <h1 class="cosWhite">Costantini</h1>
+        <p>{{msg}}</p>
+        <hr/>
+        <div class="dropdown">
+            <h4 class="cosWhite">Création</h4>
+            <ul class="dropdown-menu cosSelMenu" role="menu" >
+                <li ng-repeat="template in templates.audits"><a ng-href='#/audit/create/{{template}}'>{{template}}</a></li>
+            </ul>
+        </div>
+        <hr/>
+        <div class="dropdown">
+            <h4 class="cosWhite">Modification</h4>
+            <ul class="dropdown-menu cosSelMenu" role="menu" >
+                <li ng-repeat="template in templates.audits"><a ng-href='#/audit/edit/{{template}}'>{{template}}</a></li>
+            </ul>
+        </div>
+
+            <!--<a href="#/route" class="btn">Route View</a>-->
+        </div>
+    </div>
+
+</div>

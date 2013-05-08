@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DemoPhoneGap.iml" filepath="$PROJECT_DIR$/DemoPhoneGap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../costantini-backend/costantini-backend.iml" filepath="$PROJECT_DIR$/../costantini-backend/costantini-backend.iml" />
     </modules>
   </component>
 </project>
